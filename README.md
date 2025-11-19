@@ -76,7 +76,6 @@ Hi, I'm a future full-stack programmer, constantly learning. Currently, I'm lear
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Ketlin Olliveira&&style=flat-square)  
   
 
 <br/>  
@@ -85,4 +84,3 @@ Hi, I'm a future full-stack programmer, constantly learning. Currently, I'm lear
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
