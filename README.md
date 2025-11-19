@@ -82,5 +82,10 @@ Hi, I'm a future full-stack programmer, constantly learning. Currently, I'm lear
 
 
 <br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetlinOlliveira/KetlinOlliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KetlinOlliveira/KetlinOlliveira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KetlinOlliveira/KetlinOlliveira/output/pacman-contribution-graph.svg">
+</picture>
 
-----
+###
