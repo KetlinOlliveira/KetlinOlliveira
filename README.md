@@ -39,7 +39,7 @@ Hi, I'm a future full-stack programmer, constantly learning. Currently, I'm lear
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+
 </div>  
 
 
@@ -59,7 +59,7 @@ Hi, I'm a future full-stack programmer, constantly learning. Currently, I'm lear
 <br/>  
 
 
-## Github Stats  
+ 
 <table><tr><td valign="top" width="50%">
 
 
