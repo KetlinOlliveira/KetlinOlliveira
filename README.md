@@ -1,91 +1,16 @@
-## Hey 👋, I'm Ketlin Oliveira!  
-  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B9AFF0&section=header&reversal=true&textBg=false&fontColor=F0E8F0&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-<a href="https://github.com/KetlinOlliveira" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/KetlinOliveira" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/KetlinOliveira" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/00h36m" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F29BF7&width=435&lines=Hello%2C+i'm+Ketlin+Oliveira;I'm+student+software+developer+;welcome+to+my+github!)](https://git.io/typing-svg)
 
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
+</p>
 
-
-### Glad to see you here!  
-Hi, I'm a future full-stack programmer, constantly learning. Currently, I'm learning Spring, MySQL, and Java. In the future, I plan to learn more HTML, CSS, JavaScript, and PHP. I love programming both front-end and back-end, always striving to be the best version of myself!. 🦋  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github PRG Spring](https://github.com/KetlinOlliveira/Prg03Persistence)  
-  
-
-- 🌱 I’m currently learning Spring and MySql  
-  
-
-- ❓ Ask me about anything related to games stack and related technologies  
-
-
-</td><td valign="top" width="50%">
-
+<br> 
 <div align="center">
-
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
- 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetlinOlliveira/KetlinOlliveira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KetlinOlliveira/KetlinOlliveira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KetlinOlliveira/KetlinOlliveira/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+  <div>
+    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KetlinOlliveiras&theme=dracula">
+  </div>
+</div>
+          
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B9AFF0&section=footer&reversal=true&textBg=false&fontColor=F0E8F0&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn">
