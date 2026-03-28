@@ -98,7 +98,7 @@ public class Ketlin extends Developer {
     <td width="50%">
       <h3 align="center">🗺️ Cidades Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/KetlinOlliveira](https://github.com/KetlinOlliveira/cidades-bahia-react-typescript-node.git">
+        <a href="https://github.com/KetlinOlliveira/cidades-bahia-react-typescript-node">
           <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
