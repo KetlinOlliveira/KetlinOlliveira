@@ -26,7 +26,7 @@
 public class Ketlin extends Developer {
 
     String[] foco       = { "FullStack", "APIs REST", "Arquitetura Escalável" };
-    String   graduacao  = "ADS @ IFBA (2024 – 2027)";
+    String   graduacao  = "ADS @ IFBA (2024 – 2028)";
     String[] interesses = { "Soluções Criativas", "Design de Software", "Clean Architecture" };
     boolean  openToWork = true;
 
