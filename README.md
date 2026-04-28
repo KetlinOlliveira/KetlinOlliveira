@@ -113,17 +113,19 @@ public class Ketlin extends Developer {
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h3 align="center">🐾 Landing Page Wepet</h3>
+      <h3 align="center">🌾 Stardew Valley - Guia do Centro Comunitário</h3>
       <p align="center">
-        <a href="https://github.com/KetlinOlliveira/wepet-leandingpage-html-css">
+        <a href="https://github.com/KetlinOlliveira/stardewvalley-checklist-frontend">
           <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Landing page responsiva para PetShop com HTML5 semântico, CSS3 Flexbox/Grid e foco em acessibilidade e SEO.</p>
+      <p align="center">Projeto FullStack de Guia interativo para completar o Centro Comunitário de Stardew Valley, com API Java(Spring) e React + Tailwind + Vite. </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </p>
     </td>
   </tr>
