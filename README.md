@@ -39,7 +39,6 @@ public class Ketlin extends Developer {
 ---
 
 ## 🛠️ Tech Stack
-
 ### 💬 Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,32 +47,44 @@ public class Ketlin extends Developer {
 
 ### 🚀 Frameworks & Bibliotecas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados & Migrations
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 ### ⚙️ Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Deploy](https://img.shields.io/badge/Deploy-025CA8?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bizagi](https://img.shields.io/badge/Bizagi-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-### 📐 Arquitetura & Metodologias
-![MVC](https://img.shields.io/badge/Padrão_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+### 📐 Arquitetura, Metodologias & Qualidade
+![Padrão MVC](https://img.shields.io/badge/Padrão_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Arquitetura Modular](https://img.shields.io/badge/Arquitetura_Modular-4B32C3?style=flat-square&logo=databricks&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![QA & Testes](https://img.shields.io/badge/QA_&_Testes-25A162?style=flat-square&logo=testinglibrary&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square&logo=diagrams.net&logoColor=black)
 
+### 🧠 Inteligência Artificial
+![IA](https://img.shields.io/badge/Inteligência_Artificial-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Engenharia de Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-00A67E?style=for-the-badge&logo=chatgpt&logoColor=white)
 ---
 
 ## 📂 Projetos em Destaque
