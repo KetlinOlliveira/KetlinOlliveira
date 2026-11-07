@@ -24,9 +24,13 @@ Me chamo Ketlin, estudante de Análise e Desenvolvimento de Sistemas com foco em
 ## 🎓 Educação & Cursos
 - Tecnólogo em Análise e Desenvolvimento de Sistemas @ Instituto Federal da Bahia (2024 - 2028)
 - [Spring Boot com Apache Kafka e RabbitMQ @ Udemy](#link-da-credencial-aqui)
-- [Curso Completo de Java e Orientação a Objetos @ Udemy](#link-da-credencial-aqui)
+- [Curso Completo de Java e Orientação a Objetos @ Udemy](http://ude.my/UC-cc053663-8d5d-4e52-8c01-cd510ac34550)
+- [Formação Frontend - HTML, CSS, JavaScript, React e TypeScript @ Udemy](http://ude.my/UC-ec931ddb-3beb-432d-9363-9ccf3bc44c27)
+- [SpringBoot, REST API's do 0 à AWS, Java e Docker @ Udemy](http://ude.my/UC-c2856d71-a238-4b2d-9705-851d21f7445a)
+- [Git e GitHub @ Curso em Vídeo]()
 - [Capacitação E-Cidades @ IFBA](#link-da-credencial-aqui)
 - [Modelagem de Processos com Bizagi Modeler & Plataforma SEI](#link-da-credencial-aqui)
+
 
 ## 🛠 Tecnologias que Utilizo
 
